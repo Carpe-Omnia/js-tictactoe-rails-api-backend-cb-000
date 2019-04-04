@@ -38,7 +38,7 @@ gem 'turbolinks'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
-  gem 'rspec-rails', '~> 3.0'
+  gem 'rspec-rails'
   gem 'pry'
 
   # Adds step-by-step debugging and stack navigation capabilities to pry using byebug. To use, invoke pry normally.
